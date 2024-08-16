@@ -1,6 +1,11 @@
 # Simple Flask RESTful API
+- Name: HIMJYOTI TALUKDAR
+- Company: CODTECH IT SOLUTIONS
+- ID: CT6WDS528
+- Domain: BACKEND DEVELOPMENT
+- Duration: June to August 2024
 
-## Objective
+## Overview of the preoject
 
 The objective of this project is to create a simple RESTful API using Flask (Python) that allows users to manage a collection of movies. The API supports basic CRUD (Create, Read, Update, Delete) operations, as well as a filtering mechanism to retrieve movies based on their genre. This project serves as an introductory exercise in understanding how to build and manage RESTful APIs using Flask.
 

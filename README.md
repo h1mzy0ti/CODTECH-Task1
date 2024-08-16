@@ -29,14 +29,6 @@ The objective of this project is to create a simple RESTful API using Flask (Pyt
 - **Flask**: A lightweight web framework used to create the RESTful API.
 - **JSON**: Data format used for communication between the client and the server.
 
-## Project Structure
-
-"/simple-flask-rest-api
-│
-├── app.py # Main application file containing the API logic
-├── requirements.txt # List of required Python packages
-└── README.md # Project documentation (this file)
-"
 ##API Endpoints
 - GET /movies - Retrieve all movies.
 - GET /movies/<int:movie_id> - Retrieve a movie by its ID.
